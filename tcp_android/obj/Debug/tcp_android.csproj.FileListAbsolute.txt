@@ -1,0 +1,12 @@
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\bin\Debug\tcp_android.exe.config
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\bin\Debug\tcp_android.exe
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\bin\Debug\tcp_android.pdb
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\obj\Debug\tcp_android.csprojAssemblyReference.cache
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\obj\Debug\tcp_android.asClient.resources
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\obj\Debug\tcp_android.asServer.resources
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\obj\Debug\tcp_android.Form1.resources
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\obj\Debug\tcp_android.Properties.Resources.resources
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\obj\Debug\tcp_android.csproj.GenerateResource.cache
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\obj\Debug\tcp_android.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\obj\Debug\tcp_android.exe
+C:\Users\Serhat\source\repos\udp_on_internet\tcp_android\obj\Debug\tcp_android.pdb
